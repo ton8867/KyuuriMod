@@ -1,0 +1,16 @@
+[
+{
+  "modid": "kyuurimod",
+  "name": "Kyuuri Mod",
+  "description": "Add Kyuuri.",
+  "version": "1.0.1",
+  "mcversion": "1.7.10",
+  "url": "https://mcmod.ton-jikken.com/",
+  "updateUrl": "",
+  "authorList": ["Ton/jhbxst8867"],
+  "credits": "Ton/jhbxst8867",
+  "logoFile": "mclogo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]

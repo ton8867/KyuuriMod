@@ -1,0 +1,16 @@
+
+itemGroup.kyuuri=Cucumber Mod
+item.salt.name=Bottled salt
+item.kyuuri.name=Cucumber
+item.kyuurishioduke.name=Salted cucumber
+item.water_saltbottle.name=A bottle of salt with water
+item.kyuuri_seed.name=Cucumber seeds
+item.kyuuri_seed_comp.name=Cucumber seed bag
+achievement.OishiiKyuuri=Delicious cucumber.
+achievement.OishiiKyuuri.desc=Eat cucumbers.
+achievement.oshio=salt！
+achievement.oshio.desc=Make salt.
+achievement.Omatsuridetavereruyatsu=You sell it at festivals.
+achievement.Omatsuridetavereruyatsu.desc=Make salted cucumbers.
+achievement.utteruyatsu=It is sold at 100 averages and home improvement stores.
+achievement.utteruyatsu.desc=Make a cucumber seed bag.

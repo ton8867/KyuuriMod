@@ -1,0 +1,16 @@
+
+itemGroup.kyuuri=きゅうりMod
+item.salt.name=瓶詰めの塩
+item.kyuuri.name=きゅうり
+item.kyuurishioduke.name=きゅうりの塩漬け
+item.water_saltbottle.name=水が入った塩の瓶
+item.kyuuri_seed.name=きゅうりの種
+item.kyuuri_seed_comp.name=きゅうりの種入袋
+achievement.OishiiKyuuri=美味しいきゅうり。
+achievement.OishiiKyuuri.desc=きゅうりを食べる。
+achievement.oshio=塩！
+achievement.oshio.desc=塩を作る。
+achievement.Omatsuridetavereruyatsu=お祭りとかで売ってるよね。
+achievement.Omatsuridetavereruyatsu.desc=きゅうりの塩漬けを作る。
+achievement.utteruyatsu=100均やホームセンターで売ってます。
+achievement.utteruyatsu.desc=きゅうりの種入袋を作る。
